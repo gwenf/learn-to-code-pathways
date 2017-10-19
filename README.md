@@ -1,5 +1,7 @@
 # PATHWAYS
 
+*TODO: find a course for each one of these.*
+
 ## Front End Web Design
 
 1. HTML Basics
@@ -17,6 +19,25 @@
 
 ## Front End Web Development
 
+1. HTML Basics
+1. CSS Basics
+1. JS Basics
+
 ## Back End Web Development with Node
 
+1. JS Basics
+1. Node.js Basics
+1. Express Basics
+    * Create a Basic Application
+    * Create an API
+  
+1. Several Backend Projects
+
 ## Back End Web Development with Python
+
+1. Python Basics
+1. Flask
+    * Overview and Setup
+    * Templating
+    * Create a Basic Application
+    * Create an API

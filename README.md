@@ -7,6 +7,7 @@
 1. HTML Basics
 1. CSS Basics
 1. JS Basics
+1. jQuery Basics
 1. Typography
 1. Color Theory
 1. Branding
@@ -22,6 +23,10 @@
 1. HTML Basics
 1. CSS Basics
 1. JS Basics
+1. jQuery Basics
+1. Choose between React/Angular/Vue // comes with related libraries
+1. Projects - 3
+1. Recommended Reading
 
 ## Back End Web Development with Node
 

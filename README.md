@@ -2,7 +2,9 @@
 
 *TODO: find a course for each one of these.*
 
-## Front End Web Design
+## Front End
+
+### Web Design
 
 1. HTML Basics
 1. CSS Basics
@@ -12,21 +14,25 @@
 1. Color Theory
 1. Branding
 1. Layouts
+1. Photoshop Basics
 1. Bootstrap
 1. Sass Basics
 1. Web Standards and Good Practices
 1. Projects
 1. Recommended Reading
 
-## Front End Web Development
+### Web Development
 
 1. HTML Basics
 1. CSS Basics
 1. JS Basics
 1. jQuery Basics
 1. Choose between React/Angular/Vue // comes with related libraries
+1. Web Standards and Good Practices
 1. Projects - 3
 1. Recommended Reading
+
+### Web Assembly
 
 ## Back End Web Development with Node
 
@@ -46,3 +52,37 @@
     * Templating
     * Create a Basic Application
     * Create an API
+
+## Mobile Development
+
+## Desktop Applications
+
+## DevOps
+
+## Computer Science
+
+## QA Testing
+
+## Databases
+
+## Networking
+
+## Hacking/Security
+
+## Embedded Systems
+
+## IoT
+
+## Game Development
+
+## Data Science
+
+## AI
+
+### Machine Learning
+
+## Hardware
+
+## Cryptocurrency
+
+### Blockchain

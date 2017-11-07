@@ -4,12 +4,13 @@
 
 ## Front End
 
-### Web Design
-
 1. HTML Basics
 1. CSS Basics
 1. JS Basics
-1. jQuery Basics
+1. jQuery Basics(elective?)
+
+### Web Design
+
 1. Typography
 1. Color Theory
 1. Branding
@@ -23,14 +24,14 @@
 
 ### Web Development
 
-1. HTML Basics
-1. CSS Basics
-1. JS Basics
-1. jQuery Basics
 1. Choose between React/Angular/Vue // comes with related libraries
-1. Web Standards and Good Practices
+1. Version Control - Git/Github
 1. Projects - 3
+1. Web Standards and Good Practices(?)
+1. Refactoring(?)
 1. Recommended Reading
+
+### UX
 
 ### Web Assembly
 

@@ -6,7 +6,7 @@
 
 ### Overview
 
-1. Basics
+1. [Basics](#front-end-basics)
 1. Choose Design or Development
    1. Design
    1. Development
@@ -15,7 +15,7 @@
          1. React
          1. Angular
          
-### Basics
+### Front End Basics
 
 1. HTML Basics
 1. CSS Basics
@@ -48,7 +48,13 @@
 
 ### Web Assembly
 
-## Back End Web Development with Node
+## Back End Web Development
+
+### Back End Basics
+
+1. What is back end web dev
+
+### Back End Web Development with Node
 
 1. JS Basics
 1. Node.js Basics
@@ -58,7 +64,7 @@
   
 1. Several Backend Projects
 
-## Back End Web Development with Python
+### Back End Web Development with Python
 
 1. Python Basics
 1. Flask

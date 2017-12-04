@@ -7,6 +7,7 @@
 1. [Mobile Development](#mobile-development)
 1. [DevOps](#devops)
 1. [Cloud](#cloud)
+1. [Other or Uncategorized](#other-or-uncategorized)
 
 ## Front End
 
@@ -120,3 +121,7 @@
 ## Cryptocurrency
 
 ### Blockchain
+
+## Other or Uncategorized
+
+* [List of FCC Companion Resources](https://github.com/gwenf/awesome-free-code-camp-resources)

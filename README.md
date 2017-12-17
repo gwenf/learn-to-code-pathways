@@ -25,9 +25,23 @@
 ### Front End Basics
 
 1. HTML Basics
+   * Video: [YouTube, Learn HTML in 15 minutes by Derek Banas](https://www.youtube.com/watch?v=Ggh_y-33Eso) - Free
+   * Interactive: [freeCodeCamp HTML Challenges](https://www.freecodecamp.org) - Free
+
 1. CSS Basics
+   * Interactive: [CSS Sushi by Flukeout](https://flukeout.github.io/) - Free
+   * Interactive: [freeCodeCamp jQuery Challenges](https://www.freecodecamp.org) - Free
+   * Video: [YouTube, Learn CSS in One Video by Derek Banas](https://www.youtube.com/watch?v=CUxH_rWSI1k)
+   * Project: [Build a Google Look-a-like page, The Odin School](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) - Free
+
 1. JS Basics
+   * Book: [Head First JavaScript](https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly-ebook/dp/B00J9TMSDU) - Paid
+   * E-book: [You Don't Know JS, Up and Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) - Free with option to Pay
+   * Interactive: [freeCodeCamp Basic JavaScript Challenges](https://www.freecodecamp.org) - Free
+
 1. jQuery Basics(elective?)
+   * Interactive: [freeCodeCamp jQuery Challenges](https://www.freecodecamp.org) - Free
+   * Video: [YouTube, Learn jQuery in One Video by Derek Banas](https://www.youtube.com/watch?v=BWXggB-T1jQ)
 
 ### Web Design
 

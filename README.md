@@ -2,8 +2,9 @@
 
 *Table of Contents*
 
-1. [Front End](#front-end)
-1. [Back End](#back-end)
+1. [Web](#web)
+   1. [Front End](#front-end)
+   1. [Back End](#back-end)
 1. [Mobile Development](#mobile-development)
 1. [Desktop Applications](#desktop-applications)
 1. [DevOps](#devops)
@@ -25,7 +26,7 @@
 1. [Useful Links for Students](#useful-links-for-students)
 1. [Learning Platforms](#learning-platforms)
 
-# Web
+## Web
 
 * Video: [YouTube, 2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k) - Free
 * Video: [YouTube, Web Development in 2018](https://www.youtube.com/watch?v=Zftx68K-1D4) - Free

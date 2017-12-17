@@ -132,6 +132,8 @@
     * Overview and Setup
     * Templating
     
+### Back End with Go
+    
 ### Databases
 
 * MongoDB
@@ -167,6 +169,15 @@
 ## Networking
 
 ## Hacking/Security
+
+* [The Complete Cyber Security Course Volume 1: Hackers Exposed!](https://www.udemy.com/the-complete-internet-security-privacy-course-volume-1)
+* [The Complete Cyber Security Course Volume 2: Network Security!](https://www.udemy.com/network-security-course)
+* [The Complete Cyber Security Course Volume 3: Anonymous Browsing!](https://www.udemy.com/the-complete-cyber-security-course-anonymous-browsing)
+* [The Complete Cyber Security Course Volume 4: Anonymous Browsing!](https://www.udemy.com/the-complete-cyber-security-course-end-point-protection)
+
+### Other Resources
+
+### People to Follow
 
 ## Embedded Systems
 

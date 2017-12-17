@@ -206,3 +206,22 @@
 * Codepen
 * Other browser editors...
 * Tools for learning...
+
+## Learning Platforms
+
+### Free
+
+* freeCodeCamp
+* YouTube
+* Coursera (paid if you want a certificate)
+* EdX
+* The Odin Project
+* Udacity
+* Khan Academy
+
+### Paid
+
+* Udemy
+* Treehouse
+* Pluralsite
+* Frontend Masters

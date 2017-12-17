@@ -9,6 +9,11 @@
 1. [Cloud](#cloud)
 1. [Other or Uncategorized](#other-or-uncategorized)
 
+# Web
+
+* Video: [YouTube, 2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k) - Free
+* Video: [YouTube, Web Development in 2018](https://www.youtube.com/watch?v=Zftx68K-1D4) - Free
+
 ## Front End
 
 ### Overview
@@ -31,7 +36,7 @@
 1. CSS Basics
    * Interactive: [CSS Sushi by Flukeout](https://flukeout.github.io/) - Free
    * Interactive: [freeCodeCamp jQuery Challenges](https://www.freecodecamp.org) - Free
-   * Video: [YouTube, Learn CSS in One Video by Derek Banas](https://www.youtube.com/watch?v=CUxH_rWSI1k)
+   * Video: [YouTube, Learn CSS in One Video by Derek Banas](https://www.youtube.com/watch?v=CUxH_rWSI1k) - Free
    * Project: [Build a Google Look-a-like page, The Odin School](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) - Free
 
 1. JS Basics
@@ -41,7 +46,12 @@
 
 1. jQuery Basics(elective?)
    * Interactive: [freeCodeCamp jQuery Challenges](https://www.freecodecamp.org) - Free
-   * Video: [YouTube, Learn jQuery in One Video by Derek Banas](https://www.youtube.com/watch?v=BWXggB-T1jQ)
+   * Video: [YouTube, Learn jQuery in One Video by Derek Banas](https://www.youtube.com/watch?v=BWXggB-T1jQ) - Free
+   * Project: [Example, Build a Calculator](https://codepen.io/mattboldt/full/aoKkH/)
+   * Project: [freeCodeCamp Build a Portfolio Page](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+   
+1. Extra Curricular
+   * Video: [YouTube, Portfolio Advice by DevTips](https://www.youtube.com/watch?v=yxD-boFg2GY) - Free
 
 ### Web Design
 
@@ -50,17 +60,46 @@
 1. Branding
 1. Layouts
 1. Photoshop Basics
-1. Bootstrap
+1. Bootstrap or Foundation
 1. Sass Basics
+1. CSS Animations
+   * Video Series: [YouTube, CSS Animations Series by DevTips](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) - Free
+
 1. Web Standards and Good Practices
 1. Projects
-1. Recommended Reading
+
+1. Extra Curricular/Recommended Reading
+   * Video: [YouTube, Advice for Designers by DevTips](https://www.youtube.com/watch?v=lfiopzfE5-0) - Free
 
 ### Web Development
 
-1. Choose between React/Angular/Vue // comes with related libraries
+**React**
+
+1. React Basics
+   * Video Series: [YouTube, React.js Tutorials for Beginners by The New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA)
+
+1. React Router
+1. Redux
+1. Projects
+
+**Vue**
+
+1. Vue Basics
+1. Vue Router
+1. VueX
+1. Projects
+
+**Angular**
+
+1. Angular Basics
+   * Explaining the different versions of Angular.
+
+1. Projects
+
+**Addition Knowledge**
+
 1. Version Control - Git/Github
-1. Projects - 3
+1. Projects - 2-3 Options
 1. Web Standards and Good Practices(?)
 1. Refactoring(?)
 1. Recommended Reading
@@ -75,24 +114,35 @@
 
 1. What is back end web dev
 
-### Back End Web Development with Node
+### Back End with Node
 
-1. JS Basics
 1. Node.js Basics
-1. Express Basics
-    * Create a Basic Application
-    * Create an API
-  
-1. Several Backend Projects
+   * Interactive: [freeCodeCamp Node.js Challenges](https://www.freecodecamp.org) - Free
+   * Video Series: [YouTube, Node.js for Beginners by The New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
 
-### Back End Web Development with Python
+1. Express Basics
+   * Interactive: [freeCodeCamp Express.js Challenges](https://www.freecodecamp.org) - Free
+
+### Back End with Python
 
 1. Python Basics
+   * Video: [YouTube, Learn Python in One Video by Derek Banas](https://www.youtube.com/watch?v=N4mEzFDjqtA)
+
 1. Flask
     * Overview and Setup
     * Templating
-    * Create a Basic Application
-    * Create an API
+    
+### Databases
+
+* MongoDB
+* Postgres
+* MySQL
+
+### Projects
+  
+1. Several Backend Projects
+   * Project: Create a Basic Application
+   * ProjectCreate an API
 
 ## Mobile Development
 
@@ -139,3 +189,9 @@
 ## Other or Uncategorized
 
 * [List of FCC Companion Resources](https://github.com/gwenf/awesome-free-code-camp-resources)
+
+## Useful Links for Students
+
+* Codepen
+* Other browser editors...
+* Tools for learning...

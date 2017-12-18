@@ -168,7 +168,8 @@
 
 * Videos: [YouTube, Go in Five Minutes](https://www.youtube.com/channel/UC2GHqYE3fVJMncbrRd8AqcA/videos)
 * Forum: [Golang Bridge](https://forum.golangbridge.org/)
-    
+* Books: [Golang Book List](https://github.com/dariubs/GoBooks) - Some Free and Some Paid
+
 ### Databases
 
 * MongoDB

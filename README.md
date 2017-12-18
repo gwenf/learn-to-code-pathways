@@ -150,6 +150,24 @@
     * Templating
     
 ### Back End with Go
+
+1. Go Basics
+   * Video: [YouTube, Learn Go Programming in One Video by Derek Banas](https://www.youtube.com/watch?v=CF9S4QZuV30)
+   
+**Echo**
+
+1. Video Series: [YouTube, Building a Golang Server With Echo](https://www.youtube.com/playlist?list=PLFmONUGpIk0YwlJMZOo21a9Q1juVrk4YY)
+
+**Gin**
+
+**Revel**
+
+**Martini**
+
+**Additional Resources**
+
+* Videos: [YouTube, Go in Five Minutes](https://www.youtube.com/channel/UC2GHqYE3fVJMncbrRd8AqcA/videos)
+* Forum: [Golang Bridge](https://forum.golangbridge.org/)
     
 ### Databases
 
@@ -166,6 +184,10 @@
 ## Mobile Development
 
 ## Desktop Applications
+
+### Golang
+
+* [go-astilectron](https://github.com/asticode/go-astilectron)
 
 ## DevOps
 

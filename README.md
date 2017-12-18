@@ -203,6 +203,8 @@
 
 ## Computer Science
 
+* [Harvard Course on EdX, CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+
 ## QA Testing
 
 ## Databases

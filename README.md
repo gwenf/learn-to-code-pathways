@@ -188,6 +188,7 @@
 ### Golang
 
 * [go-astilectron](https://github.com/asticode/go-astilectron)
+* [QT Application Bindings](https://github.com/therecipe/qt)
 
 ## DevOps
 

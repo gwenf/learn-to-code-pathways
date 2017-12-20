@@ -1,5 +1,7 @@
 # PATHWAYS
 
+These pathways are created with the intent of helping beginners filter through the plethora of online resources for learning programming or related fields. If you have any suggestions or questions, please post an issue.
+
 *Table of Contents*
 
 1. [Web](#web)
@@ -10,6 +12,7 @@
 1. [DevOps](#devops)
 1. [Cloud](#cloud)
 1. [Computer Science](#computer-science)
+1. [Computer Architecture](#computer-architecture)
 1. [QA Testing](#qa-testing)
 1. [Databases](#databases)
 1. [Networking](#networking)
@@ -49,6 +52,11 @@
 1. HTML Basics
    * Video: [YouTube, Learn HTML in 15 minutes by Derek Banas](https://www.youtube.com/watch?v=Ggh_y-33Eso) - Free
    * Interactive: [freeCodeCamp HTML Challenges](https://www.freecodecamp.org) - Free
+   * Video Series: [YouTube, Web Dev Beginners Guide, HTML and CSS Basics](https://www.youtube.com/watch?v=ZBijAgbDP9w)
+   
+1. The Path into Web Development
+   * Video: [YouTube, Where to Start in Web Development](https://www.youtube.com/watch?v=6HYkN84PGfk)
+   * Video: [YouTube, Web Dev, Where to Look Things Up](https://www.youtube.com/watch?v=ZBijAgbDP9w)
 
 1. CSS Basics
    * Interactive: [CSS Sushi by Flukeout](https://flukeout.github.io/) - Free
@@ -97,12 +105,19 @@
 
 1. React Router
 1. Redux
+   * Video Series: [YouTube, Learn React with Redux](https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
+
 1. Projects
 
 **Vue**
 
 1. Vue Basics
+   * Video Course: [Udemy, Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide) - Paid, 21 Hours
+   * 
+
 1. Vue Router
+   * Video: [YouTube, ROUTING SETUP | VueJS 2 | Learning the Basics](https://www.youtube.com/watch?v=4lk9-PYensI) - Free
+
 1. VueX
 1. Projects
 
@@ -203,7 +218,9 @@
 
 ## Computer Science
 
-* [Harvard Course on EdX, CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+* Course: [Harvard CS50 with C on EdX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) or Watch the Video Series: [YouTube](https://www.youtube.com/playlist?list=PLcaMDiz5aflOQ_5EI1PTBJj6XL2nZV-nj)
+
+## Computer Architecture
 
 ## QA Testing
 

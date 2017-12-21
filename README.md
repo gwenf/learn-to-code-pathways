@@ -279,6 +279,9 @@ These pathways are created with the intent of helping beginners filter through t
 ## Other or Uncategorized
 
 * [List of FCC Companion Resources](https://github.com/gwenf/awesome-free-code-camp-resources)
+* https://learn-c.org/
+* http://css3please.com/
+* https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#html--css
 
 ## Useful Links for Students
 

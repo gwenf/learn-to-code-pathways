@@ -145,8 +145,8 @@ These pathways are created with the intent of helping beginners filter through t
 
 ### Addition Knowledge
 
+1. Chrome Developer Tools
 1. Version Control - Git/Github
-1. Projects - 2-3 Options
 1. Web Standards and Good Practices(?)
 1. Refactoring(?)
 1. Recommended Reading
@@ -169,6 +169,10 @@ These pathways are created with the intent of helping beginners filter through t
 
 1. Express Basics
    * Interactive: [freeCodeCamp Express.js Challenges](https://www.freecodecamp.org) - Free
+   
+1. Debugging
+
+1. Testing
 
 ### Back End with Python
 

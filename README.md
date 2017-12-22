@@ -71,13 +71,13 @@ These pathways are created with the intent of helping beginners filter through t
    * E-book: [You Don't Know JS, Up and Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) - Free with option to Pay
    * Interactive: [freeCodeCamp Basic JavaScript Challenges](https://www.freecodecamp.org) - Free
    * Course: [Khan Academy, Implementing JavaScript](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+   * Project: [freeCodeCamp Build a Portfolio Page](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage) - Free
 
 1. jQuery Basics(elective?)
    * Interactive: [freeCodeCamp jQuery Challenges](https://www.freecodecamp.org) - Free
    * Video: [YouTube, Learn jQuery in One Video by Derek Banas](https://www.youtube.com/watch?v=BWXggB-T1jQ) - Free
    * Course: [Khan Academy, Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) - Free
    * Project: [Example, Build a Calculator](https://codepen.io/mattboldt/full/aoKkH/) - Free
-   * Project: [freeCodeCamp Build a Portfolio Page](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage) - Free
    
 1. Extra Curricular
    * Video: [YouTube, Portfolio Advice by DevTips](https://www.youtube.com/watch?v=yxD-boFg2GY) - Free
@@ -96,7 +96,11 @@ These pathways are created with the intent of helping beginners filter through t
    * Video: [YouTube, Porfolio Design Advice](https://www.youtube.com/watch?v=NZfS9xBvf-g)
 
 1. Photoshop Basics
-1. Bootstrap or Foundation
+
+1. Bootstrap
+
+1. Foundation (instead of Bootstrap)
+
 1. Intermediate CSS
 1. Sass Basics
 1. CSS Animations
@@ -146,9 +150,14 @@ These pathways are created with the intent of helping beginners filter through t
 ### Addition Knowledge
 
 1. Chrome Developer Tools
+   * Course: [Code School, Discover DevTools](https://www.codeschool.com/courses/discover-devtools) - Free
 1. Version Control - Git/Github
+   * Online Book: [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) - Free
+   * Course: [Code School, Try Git](https://www.codeschool.com/courses/try-git) - Free
+   * Interactive: [Git Immersion](http://gitimmersion.com/) - Free
 1. Web Standards and Good Practices(?)
-1. Refactoring(?)
+1. Optimization
+   * Web Optimization Cheat Sheet
 1. Recommended Reading
 
 ### UX
@@ -160,6 +169,8 @@ These pathways are created with the intent of helping beginners filter through t
 ### Back End Basics
 
 1. What is back end web dev
+1. Intro to Command Line
+   * Command Line Cheat Sheet
 
 ### Back End with Node
 

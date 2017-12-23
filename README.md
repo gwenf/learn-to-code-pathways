@@ -96,7 +96,8 @@ These pathways are created with the intent of helping beginners filter through t
 
 1. Branding
 1. Layouts
-   * Video: [YouTube, Porfolio Design Advice](https://www.youtube.com/watch?v=NZfS9xBvf-g)
+   * Video: [YouTube, Porfolio Design Advice](https://www.youtube.com/watch?v=NZfS9xBvf-g) - Free
+   * Video: [Don't Fear the Internet, Layouts](http://www.dontfeartheinternet.com/08-layout/) - Free
 
 1. Photoshop Basics
 

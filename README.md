@@ -53,7 +53,7 @@ These pathways are created with the intent of helping beginners filter through t
    * Video: [YouTube, Learn HTML in 15 minutes by Derek Banas](https://www.youtube.com/watch?v=Ggh_y-33Eso) - Free
    * Interactive: [freeCodeCamp HTML Challenges](https://www.freecodecamp.org) - Free
    * Video Series: [YouTube, Web Dev Beginners Guide, HTML and CSS Basics](https://www.youtube.com/watch?v=ZBijAgbDP9w) - Free
-   * Course: [Khan Academy, Intro to HTML and CSS](https://www.khanacademy.org/computing/computer-programming/html-css) - Free
+   * Course: [Khan Academy, Intro to HTML and CSS](https://www.khanacademy.org/computing/computer-programming/html-css) - Free
 
 1. The Path into Web Development
    * Video: [YouTube, Where to Start in Web Development](https://www.youtube.com/watch?v=6HYkN84PGfk) - Free
@@ -106,8 +106,10 @@ These pathways are created with the intent of helping beginners filter through t
 
 1. Intermediate CSS
 1. Sass Basics
+   * Course: [Code School, Assembling Sass](https://www.codeschool.com/courses/assembling-sass) - Paid
 1. CSS Animations
    * Video Series: [YouTube, CSS Animations Series by DevTips](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) - Free
+   * Course: [Code School, Adventures in Web Animations](https://www.codeschool.com/courses/adventures-in-web-animations) - Paid
    
 1. SVGs
    * Course: [Code School, You, Me & SVG](https://www.codeschool.com/courses/you-me-svg) - Paid

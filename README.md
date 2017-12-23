@@ -87,6 +87,7 @@ These pathways are created with the intent of helping beginners filter through t
 
 1. General
    * Course: [Treehouse, Aesthetic Foundation](https://teamtreehouse.com/library/aesthetic-foundations) - Paid with Free Trial
+   * Course: [Code School, Fundamentals of Design - Typography, Colors, and Layout](https://www.codeschool.com/courses/fundamentals-of-design) - Paid
 1. Typography
    * Video: [Don't Fear the Internet, Typography](http://www.dontfeartheinternet.com/07-web-typography/) - Free
 1. Color Theory
@@ -110,8 +111,12 @@ These pathways are created with the intent of helping beginners filter through t
    
 1. SVGs
    * Course: [Code School, You, Me & SVG](https://www.codeschool.com/courses/you-me-svg) - Paid
+   
+1. User Experience Design
+   * Course: [Code School, The Elements of Web Design](https://www.codeschool.com/courses/the-elements-of-web-design)
 
 1. Web Standards and Good Practices
+
 1. Projects
 
 1. Extra Curricular/Recommended Reading
@@ -214,6 +219,8 @@ These pathways are created with the intent of helping beginners filter through t
 1. Video Series: [YouTube, Building a Golang Server With Echo](https://www.youtube.com/playlist?list=PLFmONUGpIk0YwlJMZOo21a9Q1juVrk4YY)
 
 **Gin**
+
+1. Course: [Pluralsite, Gin Web App Framework for Go](https://app.pluralsight.com/library/courses/gin-go-web-app-framework)
 
 **Revel**
 
@@ -331,4 +338,5 @@ These pathways are created with the intent of helping beginners filter through t
 * Udemy
 * Treehouse
 * Pluralsite
+* CodeSchool
 * Frontend Masters

@@ -64,6 +64,7 @@ These pathways are created with the intent of helping beginners filter through t
    * Interactive: [freeCodeCamp jQuery Challenges](https://www.freecodecamp.org) - Free
    * Video: [YouTube, Learn CSS in One Video by Derek Banas](https://www.youtube.com/watch?v=CUxH_rWSI1k) - Free
    * Video Series: [YouTube, Layouts in CSS](https://www.youtube.com/watch?v=wmAP2xvNs08&list=PL55RiY5tL51q6KKXoA0_CIskaTSJEM1fN)
+   * Guided Project: [Build your own Blog](https://www.git-tower.com/learn/build-your-own-blog/introduction/introduction)
    * Project: [Build a Google Look-a-like page, The Odin School](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) - Free
 
 1. JS Basics
@@ -87,6 +88,7 @@ These pathways are created with the intent of helping beginners filter through t
 1. General
    * Course: [Treehouse, Aesthetic Foundation](https://teamtreehouse.com/library/aesthetic-foundations) - Paid with Free Trial
 1. Typography
+   * Video: [Don't Fear the Internet, Typography](http://www.dontfeartheinternet.com/07-web-typography/) - Free
 1. Color Theory
    * Video: [YouTube, Color Psychology In Web Design](https://www.youtube.com/watch?v=r9gYdD-REI0)
    * Video: [YouTube, Amazing Color Resources for Designers](https://www.youtube.com/watch?v=3B2p1Tb79qY)
@@ -105,6 +107,9 @@ These pathways are created with the intent of helping beginners filter through t
 1. Sass Basics
 1. CSS Animations
    * Video Series: [YouTube, CSS Animations Series by DevTips](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) - Free
+   
+1. SVGs
+   * Course: [Code School, You, Me & SVG](https://www.codeschool.com/courses/you-me-svg) - Paid
 
 1. Web Standards and Good Practices
 1. Projects
@@ -180,6 +185,11 @@ These pathways are created with the intent of helping beginners filter through t
 
 1. Express Basics
    * Interactive: [freeCodeCamp Express.js Challenges](https://www.freecodecamp.org) - Free
+   
+1. Intermediate Node and Express
+   * Interactive: [freeCodeCamp Advanced Node/Express Challenges](https://www.freecodecamp.org) - Free
+   
+1. Websockets with Socket.io
    
 1. Debugging
 

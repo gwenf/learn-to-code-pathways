@@ -8,6 +8,8 @@ These pathways are created with the intent of helping beginners filter through t
    1. [Front End](#front-end)
    1. [Back End](#back-end)
 1. [Mobile Development](#mobile-development)
+   1. [Android](#android)
+   1. [iOS](#ios)
 1. [Desktop Applications](#desktop-applications)
 1. [DevOps](#devops)
 1. [Cloud](#cloud)
@@ -50,7 +52,7 @@ These pathways are created with the intent of helping beginners filter through t
 ### Front End Basics
 
 1. HTML Basics
-   * Video: [YouTube, Learn HTML in 15 minutes by Derek Banas](https://www.youtube.com/watch?v=Ggh_y-33Eso) - Free
+   * Video: [YouTube, HTML Crash Course For Absolute Beginners by Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE&t=160so) - Free
    * Interactive: [freeCodeCamp HTML Challenges](https://www.freecodecamp.org) - Free
    * Video Series: [YouTube, Web Dev Beginners Guide, HTML and CSS Basics](https://www.youtube.com/watch?v=ZBijAgbDP9w) - Free
    * Course: [Khan Academy, Intro to HTML and CSS](https://www.khanacademy.org/computing/computer-programming/html-css) - Free
@@ -62,7 +64,7 @@ These pathways are created with the intent of helping beginners filter through t
 1. CSS Basics
    * Interactive: [CSS Sushi by Flukeout](https://flukeout.github.io/) - Free
    * Interactive: [freeCodeCamp jQuery Challenges](https://www.freecodecamp.org) - Free
-   * Video: [YouTube, Learn CSS in One Video by Derek Banas](https://www.youtube.com/watch?v=CUxH_rWSI1k) - Free
+   * Video: [YouTube, CSS Crash Course For Absolute Beginners by Traversy Media](https://www.youtube.com/watch?v=yfoY53QXEnI&t=1s) - Free
    * Video Series: [YouTube, Layouts in CSS](https://www.youtube.com/watch?v=wmAP2xvNs08&list=PL55RiY5tL51q6KKXoA0_CIskaTSJEM1fN)
    * Guided Project: [Build your own Blog](https://www.git-tower.com/learn/build-your-own-blog/introduction/introduction)
    * Project: [Build a Google Look-a-like page, The Odin School](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) - Free
@@ -96,10 +98,15 @@ These pathways are created with the intent of helping beginners filter through t
 
 1. Branding
 1. Layouts
-   * Video: [YouTube, Porfolio Design Advice](https://www.youtube.com/watch?v=NZfS9xBvf-g) - Free
+   * Video: [YouTube, Porfolio Design Advice](https://www.youtube.com/watch?v=NZfS9xBvf-g)
    * Video: [Don't Fear the Internet, Layouts](http://www.dontfeartheinternet.com/08-layout/) - Free
 
 1. Photoshop Basics
+   * Video: [YouTube, Photoshop - all the basics](https://youtu.be/4HE_u-g83sY)
+   
+1. Illustrator Basics
+   * Video: [YouTube, Learn to Draw Anything with Illustrator](https://www.youtube.com/watch?v=RbbQl2sU-ag)
+   * Video: [YouTube, The Most Comprehensive Pen Tool Tutorial EVER MADE!](https://www.youtube.com/watch?v=2u7ijgxFOHc&t=1s)
 
 1. Bootstrap
 
@@ -114,6 +121,7 @@ These pathways are created with the intent of helping beginners filter through t
    
 1. SVGs
    * Course: [Code School, You, Me & SVG](https://www.codeschool.com/courses/you-me-svg) - Paid
+   * Video: [YouTube: SVG for Web Designers](https://youtu.be/q4QI9iOeyPo)
    
 1. User Experience Design
    * Course: [Code School, The Elements of Web Design](https://www.codeschool.com/courses/the-elements-of-web-design)
@@ -121,6 +129,10 @@ These pathways are created with the intent of helping beginners filter through t
 1. Web Standards and Good Practices
 
 1. Projects
+   * Mock up part of a user interface
+   * Choose color schemes
+   * Mockup an interesting layout in the design framework of choice
+   * Capstone project should be creative site
 
 1. Extra Curricular/Recommended Reading
    * Video: [YouTube, Advice for Designers by DevTips](https://www.youtube.com/watch?v=lfiopzfE5-0) - Free
@@ -158,7 +170,7 @@ These pathways are created with the intent of helping beginners filter through t
    
 ### Projects
 
-1. Recipe Book
+1. [Recipe Book](https://www.freecodecamp.org/challenges/build-a-recipe-box)
 
 ### Addition Knowledge
 
@@ -208,9 +220,13 @@ These pathways are created with the intent of helping beginners filter through t
 1. Python Basics
    * Video: [YouTube, Learn Python in One Video by Derek Banas](https://www.youtube.com/watch?v=N4mEzFDjqtA)
 
-1. Flask
+1. Frameworks
+**Flask**
     * Overview and Setup
     * Templating
+    
+**Django**
+   * 
     
 ### Back End with Go
 

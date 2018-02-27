@@ -1,5 +1,7 @@
 # PATHWAYS
 
+**This list is going be replaced by a more project based curriculum [here](https://github.com/gwenf/pathways/blob/master/PROJECT_BASED_PATHWAYS.md).**
+
 These pathways are created with the intent of helping beginners filter through the plethora of online resources for learning programming or related fields. If you have any suggestions or questions, please post an issue.
 
 *Table of Contents*

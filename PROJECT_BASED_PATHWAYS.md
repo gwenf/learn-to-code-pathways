@@ -41,6 +41,22 @@ Then we, or the community of propelup.io can filter through the best learning ma
 
 ### Development
 
-
+1. Build a Google look-a-like Page
+1. Build a Game
 
 ### Design
+
+1. Build a Google look-a-like Page
+1. Font Combinations
+1. Make a single site in 3 different color schemes
+1. Design a Game with Mockup Software
+1. Use a design framework to make a creative portfolio
+
+## Back End
+
+### Node/Python/Go
+
+1. Build a microservice
+1. Build an API
+1. Build a Backend
+1. Given a Front-end, Build out a back-end, include secure routes, authentication

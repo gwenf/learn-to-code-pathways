@@ -41,16 +41,25 @@ Then we, or the community of propelup.io can filter through the best learning ma
 
 ### Development
 
-1. Build a Google look-a-like Page
+1. Build a Google look-a-like page
+1. Build a portfolio page
+1. Build a recipe book
 1. Build a Game
+1. Build a Blog
+1. Build your own open source project
+1. Build a Social Networking site
+1. Pair up with a back-end dev to work together
 
 ### Design
 
-1. Build a Google look-a-like Page
-1. Font Combinations
+1. Build a Google look-a-like page
+1. Design a plain HTML page
+1. Make 3 identical pages with different font combinations on a page
 1. Make a single site in 3 different color schemes
 1. Design a Game with Mockup Software
+1. Convert a CSS project to Sass, clean up the design
 1. Use a design framework to make a creative portfolio
+1. Pair up with a programmer to build a web app
 
 ## Back End
 
@@ -60,3 +69,4 @@ Then we, or the community of propelup.io can filter through the best learning ma
 1. Build an API
 1. Build a Backend
 1. Given a Front-end, Build out a back-end, include secure routes, authentication
+1. Pair up with a front-end dev to work together

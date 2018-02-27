@@ -4,6 +4,8 @@ The intent of these pathways is to a facilitate more practical learning by makin
 Basically, the curriculum will take a user through a series of 10 or so projects working towards mastery in a certain area, eg front-end development.
 Then we, or the community of propelup.io can filter through the best learning material to be able to complete these projects.
 
+The projects will be arranged by difficulty from 1-12 with a title for each. They will also be a mixture of some green field and brown field development projects.
+
 *Table of Contents*
 
 1. [Web](#web)
@@ -49,17 +51,19 @@ Then we, or the community of propelup.io can filter through the best learning ma
 1. Build your own open source project
 1. Build a Social Networking site
 1. Pair up with a back-end dev to work together
+1. Capstone/passion project
 
 ### Design
 
 1. Build a Google look-a-like page
-1. Design a plain HTML page
+1. Given plain HTML, add styles and layout. Make it look nice basically.
 1. Make 3 identical pages with different font combinations on a page
 1. Make a single site in 3 different color schemes
 1. Design a Game with Mockup Software
 1. Convert a CSS project to Sass, clean up the design
 1. Use a design framework to make a creative portfolio
 1. Pair up with a programmer to build a web app
+1. Capstone/passion project
 
 ## Back End
 
@@ -70,3 +74,4 @@ Then we, or the community of propelup.io can filter through the best learning ma
 1. Build a Backend
 1. Given a Front-end, Build out a back-end, include secure routes, authentication
 1. Pair up with a front-end dev to work together
+1. Capstone/passion project

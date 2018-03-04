@@ -76,6 +76,7 @@ The projects will be arranged by difficulty from 1-12 with a title for each. The
 1. Build a microservice
 1. Build an API
 1. Build a Backend
+1. Given a Front-end, Build out a back-end for a crud application
 1. Given a Front-end, Build out a back-end, include secure routes, authentication
 1. Pair up with a front-end dev to work together
 1. Capstone/passion project

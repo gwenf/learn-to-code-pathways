@@ -45,7 +45,10 @@ The projects will be arranged by difficulty from 1-12 with a title for each. The
 
 1. Build a Google look-a-like page
 1. Build a portfolio page
+1. Build a random number guesser game
+1. Build a calculator
 1. Build a recipe book
+1. Create a markdown text editor
 1. Build a Game
 1. Build a Blog
 1. Build your own open source project
@@ -69,9 +72,14 @@ The projects will be arranged by difficulty from 1-12 with a title for each. The
 
 ### Node/Python/Go
 
+1. Build a random number guesser game
 1. Build a microservice
 1. Build an API
 1. Build a Backend
 1. Given a Front-end, Build out a back-end, include secure routes, authentication
 1. Pair up with a front-end dev to work together
 1. Capstone/passion project
+
+## Other Requirements
+
+1. Contribute to an open source project

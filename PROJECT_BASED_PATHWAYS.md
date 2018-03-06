@@ -81,7 +81,7 @@ The projects will be arranged by difficulty from 1-12 with a title for each. The
 1. Build a microservice - advanced
 1. Build an API - beginner
 1. Build an API and Open Source it - advanced
-1. Build a Simple Backend
+1. Build a Simple Backend with Express
 1. Given a Front-end, Build out a back-end for a blog application (build a blog engine)
 1. Given a Front-end, Build out a back-end, include secure routes, authentication
 1. Pair up with a front-end dev to work together

@@ -63,9 +63,12 @@ The projects will be arranged by difficulty from 1-12 with a title for each. The
 1. Make 3 identical pages with different font combinations on a page
 1. Make a single site in 3 different color schemes
 1. Design a Game with Mockup Software
+1. Create a Design Document
+1. Do some UX AB Testing/audits
 1. Convert a CSS project to Sass, clean up the design
 1. Use a design framework to make a creative portfolio
-1. Pair up with a programmer to build a web app
+1. Redesign a non-profit website
+1. Pair up with a programmer to build a web or mobile app
 1. Capstone/passion project
 
 ## Back End

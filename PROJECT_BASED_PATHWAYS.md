@@ -2,7 +2,7 @@
 
 The intent of these pathways is to a facilitate more practical learning by making it a project-based curriculum.
 Basically, the curriculum will take a user through a series of 10 or so projects working towards mastery in a certain area, eg front-end development.
-Then we, or the community of propelup.io can filter through the best learning material to be able to complete these projects.
+Then learning courses will be filtered through for high quality content based off of community input and algorithms to determine the best quality for learning.
 
 The projects will be arranged by difficulty from 1-12 with a title for each. They will also be a mixture of some green field and brown field development projects.
 

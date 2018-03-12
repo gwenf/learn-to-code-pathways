@@ -77,6 +77,7 @@ The projects will be arranged by difficulty from 1-12 with a title for each. The
 
 1. Build a random number guesser game
 1. Build a command line dictionary/help manual
+1. Build a Simple Server with Node
 1. Build a microservice - beginner
 1. Build a microservice - advanced
 1. Build an API - beginner

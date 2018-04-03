@@ -88,6 +88,10 @@ The projects will be arranged by difficulty from 1-12 with a title for each. The
 1. Pair up with a front-end dev to work together
 1. Capstone/passion project
 
+## Data Science
+
+## Machine Learning
+
 ## Other Requirements
 
 1. Contribute to an open source project

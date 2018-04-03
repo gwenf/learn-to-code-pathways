@@ -92,6 +92,12 @@ The projects will be arranged by difficulty from 1-12 with a title for each. The
 
 ## Machine Learning
 
+1. Supervised Learning
+1. Unsupervised Learning
+1. Reinforcement Learning
+1. Build a Neural Network
+1. Capstone/Passion Project
+
 ## Blockchain Application Developer
 
 1. Build a blockchain

@@ -92,6 +92,14 @@ The projects will be arranged by difficulty from 1-12 with a title for each. The
 
 ## Machine Learning
 
+## Blockchain Application Developer
+
+1. Build a blockchain
+1. Buy and sell on the test network
+1. Create a simple business contract
+1. Build a simple game on the blockchain
+1. Capstone/Passion project
+
 ## Other Requirements
 
 1. Contribute to an open source project

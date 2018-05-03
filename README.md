@@ -89,24 +89,6 @@ These pathways are created with the intent of helping beginners filter through t
 
 ### Web Design
 
-<details>
-  <summary><b>CDN Availability</b> (click to show)</summary>
-
-|    CDN     | URL                                        |
-|-----------:|:-------------------------------------------|
-|    `unpkg` | <https://unpkg.com/xlsx/>                  |
-| `jsDelivr` | <https://jsdelivr.com/package/npm/xlsx>    |
-|    `CDNjs` | <http://cdnjs.com/libraries/xlsx>          |
-|    `packd` | <https://bundle.run/xlsx@latest?name=XLSX> |
-
-`unpkg` makes the latest version available at:
-
-```html
-<script src="https://unpkg.com/xlsx/dist/xlsx.full.min.js"></script>
-```
-
-</details>
-
 1. General
    * Course: [Treehouse, Aesthetic Foundation](https://teamtreehouse.com/library/aesthetic-foundations) - Paid with Free Trial
    * Course: [Code School, Fundamentals of Design - Typography, Colors, and Layout](https://www.codeschool.com/courses/fundamentals-of-design) - Paid

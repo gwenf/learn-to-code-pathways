@@ -35,13 +35,13 @@
 
 1. Learn HTML Basics
     * Video: [YouTube, HTML Crash Course For Absolute Beginners by Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE&t=160so) - Free
-    * Interactive: [freeCodeCamp HTML Challenges](https://www.freecodecamp.org) - Free
+    * Interactive: [freeCodeCamp HTML Challenges](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5) - Free
     * Video Series: [YouTube, Web Dev Beginners Guide, HTML and CSS Basics](https://www.youtube.com/watch?v=ZBijAgbDP9w) - Free
     * Course: [Khan Academy, Intro to HTML and CSS](https://www.khanacademy.org/computing/computer-programming/html-css) - Free
 
 2. Learn CSS Basics
     * Interactive: [CSS Sushi by Flukeout](https://flukeout.github.io/) - Free
-    * Interactive: [freeCodeCamp jQuery Challenges](https://www.freecodecamp.org) - Free
+    * Interactive: [freeCodeCamp CSS Challenges](https://learn.freecodecamp.org/responsive-web-design/basic-css)
     * Video: [YouTube, CSS Crash Course For Absolute Beginners by Traversy Media](https://www.youtube.com/watch?v=yfoY53QXEnI&t=1s) - Free
     * Video Series: [YouTube, Layouts in CSS](https://www.youtube.com/watch?v=wmAP2xvNs08&list=PL55RiY5tL51q6KKXoA0_CIskaTSJEM1fN)
     * Guided Project: [Build your own Blog](https://www.git-tower.com/learn/build-your-own-blog/introduction/introduction)
@@ -87,6 +87,8 @@
 * jQuery
 
 </details>
+
+* Interactive: [freeCodeCamp jQuery Challenges](https://www.freecodecamp.org) - Free
 
 </details>
 

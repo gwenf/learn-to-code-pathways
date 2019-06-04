@@ -47,7 +47,7 @@
     * Guided Project: [Build your own Blog](https://www.git-tower.com/learn/build-your-own-blog/introduction/introduction)
 
 3. Project Instructions
-  * [B  uild a Google Look-a-like page, The Odin School](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) - Free
+    * [Build a Google Look-a-like page, The Odin School](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) - Free
 
 4. The Path into Web Development (optional)
     * Video: [YouTube, Where to Start in Web Development](https://www.youtube.com/watch?v=6HYkN84PGfk) - Free

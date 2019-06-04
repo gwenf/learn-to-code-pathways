@@ -1,4 +1,4 @@
-# PATHWAYS
+# LEARNING PATHWAYS
 
 These pathways are created with the intent of helping beginners filter through the plethora of online resources for learning programming or related fields. If you have any suggestions or questions, please create an issue from the issues tab.
 
